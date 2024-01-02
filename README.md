@@ -8,7 +8,7 @@
 
 ### Preview
 
-
+![Preview](https://github.com/Mohit-005/login-page-with-snow/assets/115066003/fe099ae7-d0b9-4793-965f-2d62511627ba)
 
 ### Useful Resources
 
